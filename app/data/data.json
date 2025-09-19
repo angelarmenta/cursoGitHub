@@ -1,0 +1,18 @@
+{
+    "tasks": [
+        {
+            "id": 0,
+            "title": "comprar la despensa",
+            "desc": "comprar leche y huevos",
+            "status": "pending",
+            "timestamp": ""
+        },
+        {
+            "id": 2,
+            "title": "Terminar la tarea",
+            "description": "Debes terminar la tarea",
+            "status": "Pending",
+            "timestamp": "2025-09-19"
+        }
+    ]
+}
